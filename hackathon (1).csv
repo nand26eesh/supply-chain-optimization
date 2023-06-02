@@ -1,0 +1,303 @@
+Product ID,Product Name,Product Category,Product Weight,Product Dimensions,Unit Price,Supplier ID,Supplier Name,Supplier Location,Supplier Capacity,Supplier Lead Time,Supplier Cost,Warehouse ID,Warehouse Location,Warehouse Capacity,Warehouse Cost,Customer ID,Customer Name,Customer Location,Customer Demand,Customer Budget,Transportation ID,Transportation Mode,Transportation Cost per Unit Distance,Transportation Capacity,Order_Date
+1, Laptop, Electronics,2.5, 15x10x1 inches,1000,1, ABC Supplier, City A,1000, 5 days,500,1, City X,2000,2000,1, John Smith, City P,50,5000,1, Truck,  0.5/mile,5000, 2022-01-01
+2, Smartphone, Electronics,0.3, 6x3x0.5 inches,800,2, XYZ Supplier, City B,800, 3 days,450,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,2, Ship,  1000/trip,10000, 2022-01-02
+3, T-Shirt, Clothing,0.2, 12x8x0.2 inches,20,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-01-03
+4, Book, Stationery,0.5, 9x6x1 inches,15,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-01-04
+5, Headphones, Electronics,0.2, 7x5x2 inches,50,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-01-05
+6, Jeans, Clothing,0.8, 30x32x1 inches,60,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-01-06
+7, Watch, Accessories,0.3, 4x4x0.8 inches,100,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-01-07
+8, Camera, Electronics,1.2, 6x5x3 inches,800,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-01-08
+9, Dress, Clothing,0.6, 14x12x1 inches,70,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-01-09
+10, Pen, Stationery,0.05, 6x0.5x0.5 inches,2,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-01-10
+11, Television, Electronics,10, 50x30x5 inches,1500,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-01-11
+12, Jacket, Clothing,1, 18x16x2 inches,80,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-01-12
+13, Notebook, Stationery,0.3, 8x6x0.5 inches,5,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-01-13
+14, Speaker, Electronics,0.8, 8x5x4 inches,80,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-01-14
+15, Shorts, Clothing,0.3, 12x10x1 inches,30,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-01-15
+16, Calculator, Stationery,0.2, 5x4x1 inches,10,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-01-16
+17, Microwave, Electronics,5, 18x14x10 inches,200,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-01-17
+18, Sweater, Clothing,0.8, 16x12x2 inches,40,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-01-18
+19, Eraser, Stationery,0.02, 2x1x0.5 inches,1,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-01-19
+20, Printer, Electronics,3, 15x12x8 inches,300,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-01-20
+21, Skirt, Clothing,0.4, 14x10x1 inches,35,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-01-21
+22, Highlighter, Stationery,0.05, 5x0.5x0.5 inches,2,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-01-22
+23, Refrigerator, Electronics,50, 60x30x24 inches,1200,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-01-23
+24, Hat, Clothing,0.1, 8x8x4 inches,15,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-01-24
+25, Glue, Stationery,0.1, 4x2x1 inches,3,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-01-25
+26, Tablet, Electronics,0.5, 10x6x0.2 inches,500,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-01-26
+27, Pants, Clothing,0.7, 32x34x1 inches,50,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-01-27
+28, Ruler, Stationery,0.1, 12x1x0.1 inches,1.5,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-01-28
+29, Speaker System, Electronics,5, 20x15x10 inches,200,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-01-29
+30, Blouse, Clothing,0.3, 10x8x1 inches,25,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-01-30
+31, Marker, Stationery,0.05, 6x0.5x0.5 inches,2.5,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-01-31
+32, Laptop, Electronics,2, 14x10x1 inches,1000,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-02-01
+33, T-Shirt, Clothing,0.2, 12x10x1 inches,20,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-02-02
+34, Pencil, Stationery,0.02, 7x0.3x0.3 inches,0.5,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-02-03
+35, Smartphone, Electronics,0.3, 5x3x0.4 inches,800,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-02-04
+36, Dress Shirt, Clothing,0.4, 16x14x1 inches,45,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-02-05
+37, Stapler, Stationery,0.3, 7x2x1 inches,4,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-02-06
+38, Tablet, Electronics,0.5, 10x6x0.2 inches,500,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-02-07
+39, Jeans, Clothing,0.8, 34x32x2 inches,60,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-02-08
+40, Pen, Stationery,0.05, 6x0.4x0.4 inches,1.5,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-02-09
+41, Digital Camera, Electronics,1, 6x4x2 inches,400,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-02-10
+42, Polo Shirt, Clothing,0.3, 14x12x1 inches,35,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-02-11
+43, Notebook, Stationery,0.3, 8x6x0.5 inches,5,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-02-12
+44, Headphones, Electronics,0.3, 8x5x4 inches,50,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-02-13
+45, Hoodie, Clothing,0.7, 16x12x2 inches,40,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-02-14
+46, Eraser, Stationery,0.02, 2x1x0.5 inches,1,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-02-15
+47, Printer, Electronics,3, 15x12x8 inches,300,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-02-16
+48, Skirt, Clothing,0.4, 14x10x1 inches,35,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-02-17
+49, Highlighter, Stationery,0.05, 5x0.5x0.5 inches,2,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-02-18
+50, Refrigerator, Electronics,50, 60x30x24 inches,1200,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-02-19
+51, Hat, Clothing,0.1, 8x8x4 inches,15,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-02-20
+52, Glue, Stationery,0.1, 4x2x1 inches,3,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-02-21
+53, Tablet, Electronics,0.5, 10x6x0.2 inches,500,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-02-22
+54, Pants, Clothing,0.7, 32x34x1 inches,50,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-02-23
+55, Ruler, Stationery,0.1, 12x1x0.1 inches,1.5,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-02-24
+56, Speaker System, Electronics,5, 20x15x10 inches,200,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-02-25
+57, Blouse, Clothing,0.3, 10x8x1 inches,25,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-02-26
+58, Marker, Stationery,0.05, 6x0.5x0.5 inches,2.5,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-02-27
+59, Laptop, Electronics,2, 14x10x1 inches,1000,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-02-28
+60, T-Shirt, Clothing,0.2, 12x10x1 inches,20,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-03-01
+61, Pencil, Stationery,0.02, 7x0.3x0.3 inches,0.5,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-03-02
+62, Smartphone, Electronics,0.3, 5x3x0.4 inches,800,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-03-03
+63, Dress Shirt, Clothing,0.4, 16x14x1 inches,45,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-03-04
+64, Stapler, Stationery,0.3, 7x2x1 inches,4,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-03-05
+65, Tablet, Electronics,0.5, 10x6x0.2 inches,500,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-03-06
+66, Jeans, Clothing,0.8, 34x32x2 inches,60,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-03-07
+67, Pen, Stationery,0.05, 6x0.4x0.4 inches,1.5,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-03-08
+68, Digital Camera, Electronics,1, 6x4x2 inches,400,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-03-09
+69, Polo Shirt, Clothing,0.3, 14x12x1 inches,35,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-03-10
+70, Notebook, Stationery,0.3, 8x6x0.5 inches,5,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-03-11
+71, Headphones, Electronics,0.3, 8x5x4 inches,50,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-03-12
+72, Hoodie, Clothing,0.7, 16x12x2 inches,40,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-03-13
+73, Eraser, Stationery,0.02, 2x1x0.5 inches,1,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-03-14
+74, Speaker System, Electronics,5, 20x15x10 inches,200,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-03-15
+75, Skirt, Clothing,0.4, 14x10x1 inches,35,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-03-16
+76, Highlighter, Stationery,0.05, 5x0.5x0.5 inches,2,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-03-17
+77, Refrigerator, Electronics,50, 60x30x24 inches,1200,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-03-18
+78, Hat, Clothing,0.1, 8x8x4 inches,15,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-03-19
+79, Glue, Stationery,0.1, 4x2x1 inches,3,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-03-20
+80, Tablet, Electronics,0.5, 10x6x0.2 inches,500,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-03-21
+81, Pants, Clothing,0.7, 32x34x1 inches,50,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-03-22
+82, Ruler, Stationery,0.1, 12x1x0.1 inches,1.5,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-03-23
+83, Speaker System, Electronics,5, 20x15x10 inches,200,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-03-24
+84, Blouse, Clothing,0.3, 10x8x1 inches,25,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-03-25
+85, Marker, Stationery,0.05, 6x0.5x0.5 inches,2.5,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-03-26
+86, Laptop, Electronics,2, 14x10x1 inches,1000,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-03-27
+87, T-Shirt, Clothing,0.2, 12x10x1 inches,20,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-03-28
+88, Pencil, Stationery,0.02, 7x0.3x0.3 inches,0.5,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-03-29
+89, Smartphone, Electronics,0.3, 5x3x0.4 inches,800,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-03-30
+90, Dress Shirt, Clothing,0.4, 16x14x1 inches,45,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-03-31
+91, Stapler, Stationery,0.3, 7x2x1 inches,4,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-04-01
+92, Tablet, Electronics,0.5, 10x6x0.2 inches,500,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-04-02
+93, Jeans, Clothing,0.8, 34x32x2 inches,60,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-04-03
+94, Pen, Stationery,0.05, 6x0.4x0.4 inches,1.5,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-04-04
+95, Digital Camera, Electronics,1, 6x4x2 inches,400,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-04-05
+96, Polo Shirt, Clothing,0.3, 14x12x1 inches,35,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-04-06
+97, Notebook, Stationery,0.3, 8x6x0.5 inches,5,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-04-07
+98, Headphones, Electronics,0.3, 8x5x4 inches,50,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-04-08
+99, Hoodie, Clothing,0.7, 16x12x2 inches,40,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-04-09
+100, Eraser, Stationery,0.02, 2x1x0.5 inches,1,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-04-10
+101, Speaker System, Electronics,5, 20x15x10 inches,200,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-04-11
+102, Skirt, Clothing,0.4, 14x10x1 inches,35,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-04-12
+103, Highlighter, Stationery,0.05, 5x0.5x0.5 inches,2,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-04-13
+104, Refrigerator, Electronics,50, 60x30x24 inches,1200,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-04-14
+105, Hat, Clothing,0.1, 8x8x4 inches,15,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-04-15
+106, Glue, Stationery,0.1, 4x2x1 inches,3,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-04-16
+107, Tablet, Electronics,0.5, 10x6x0.2 inches,500,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-04-17
+108, Dress, Clothing,0.6, 16x12x2 inches,60,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-04-18
+109, Stapler, Stationery,0.3, 7x2x1 inches,4,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-04-19
+110, Laptop, Electronics,2, 14x10x1 inches,1000,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-04-20
+111, T-Shirt, Clothing,0.2, 12x10x1 inches,20,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-04-21
+112, Pen, Stationery,0.05, 6x0.4x0.4 inches,1.5,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-04-22
+113, Smartphone, Electronics,0.3, 5x3x0.4 inches,800,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-04-23
+114, Jeans, Clothing,0.8, 34x32x2 inches,60,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-04-24
+115, Pencil, Stationery,0.02, 7x0.3x0.3 inches,0.5,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-04-25
+116, Camera, Electronics,0.5, 8x6x4 inches,300,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-04-26
+117, Shirt, Clothing,0.4, 14x12x1 inches,35,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-04-27
+118, Sticky Notes, Stationery,0.1, 4x3x1 inches,2.5,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-04-28
+119, Headphones, Electronics,0.3, 8x5x4 inches,50,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-04-29
+120, Sweater, Clothing,0.7, 16x12x2 inches,40,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-04-30
+121, Eraser, Stationery,0.02, 2x1x0.5 inches,1,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-05-01
+122, Speaker System, Electronics,5, 20x15x10 inches,200,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-05-02
+123, Skirt, Clothing,0.4, 14x10x1 inches,35,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-05-03
+124, Highlighter, Stationery,0.05, 5x0.5x0.5 inches,2,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-05-04
+125, Refrigerator, Electronics,50, 60x30x24 inches,1200,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-05-05
+126, Hat, Clothing,0.1, 8x8x4 inches,15,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-05-06
+127, Glue, Stationery,0.1, 4x2x1 inches,3,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-05-07
+128, Tablet, Electronics,0.5, 10x6x0.2 inches,500,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-05-08
+129, Dress, Clothing,0.6, 16x12x2 inches,60,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-05-09
+130, Stapler, Stationery,0.3, 7x2x1 inches,4,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-05-10
+131, Laptop, Electronics,2, 14x10x1 inches,1000,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-05-11
+132, T-Shirt, Clothing,0.2, 12x10x1 inches,20,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-05-12
+133, Pen, Stationery,0.05, 6x0.4x0.4 inches,1.5,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-05-13
+134, Smartphone, Electronics,0.3, 5x3x0.4 inches,800,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-05-14
+135, Jeans, Clothing,0.8, 34x32x2 inches,60,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-05-15
+136, Pencil, Stationery,0.02, 7x0.3x0.3 inches,0.5,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-05-16
+137, Camera, Electronics,0.5, 8x6x4 inches,300,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-05-17
+138, Shirt, Clothing,0.4, 14x12x1 inches,35,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-05-18
+139, Sticky Notes, Stationery,0.1, 4x3x1 inches,2.5,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-05-19
+140, Headphones, Electronics,0.3, 8x5x4 inches,50,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-05-20
+141, Sweater, Clothing,0.7, 16x12x2 inches,40,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-05-21
+142, Eraser, Stationery,0.02, 2x1x0.5 inches,1,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-05-22
+143, Speaker System, Electronics,5, 20x15x10 inches,200,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-05-23
+144, Skirt, Clothing,0.4, 14x10x1 inches,35,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-05-24
+145, Highlighter, Stationery,0.05, 5x0.5x0.5 inches,2,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-05-25
+146, Refrigerator, Electronics,50, 60x30x24 inches,1200,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-05-26
+147, Hat, Clothing,0.1, 8x8x4 inches,15,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-05-27
+148, Glue, Stationery,0.1, 4x2x1 inches,3,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-05-28
+149, Tablet, Electronics,0.5, 10x6x0.2 inches,500,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-05-29
+150, Dress, Clothing,0.6, 16x12x2 inches,60,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-05-30
+151, Stapler, Stationery,0.3, 7x2x1 inches,4,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-05-31
+152, Laptop, Electronics,2, 14x10x1 inches,1000,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-06-01
+153, T-Shirt, Clothing,0.2, 12x10x1 inches,20,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-06-02
+154, Pen, Stationery,0.05, 6x0.4x0.4 inches,1.5,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-06-03
+155, Smartphone, Electronics,0.3, 5x3x0.4 inches,800,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-06-04
+156, Jeans, Clothing,0.8, 34x32x2 inches,60,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-06-05
+157, Pencil, Stationery,0.02, 7x0.3x0.3 inches,0.5,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-06-06
+158, Camera, Electronics,0.5, 8x6x4 inches,300,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-06-07
+159, Shirt, Clothing,0.4, 14x12x1 inches,35,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-06-08
+160, Sticky Notes, Stationery,0.1, 4x3x1 inches,2.5,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-06-09
+161, Headphones, Electronics,0.3, 8x5x4 inches,50,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-06-10
+162, Sweater, Clothing,0.7, 16x12x2 inches,40,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-06-11
+163, Eraser, Stationery,0.02, 2x1x0.5 inches,1,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-06-12
+164, Speaker System, Electronics,5, 20x15x10 inches,200,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-06-13
+165, Skirt, Clothing,0.4, 14x10x1 inches,35,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-06-14
+166, Highlighter, Stationery,0.05, 5x0.5x0.5 inches,2,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-06-15
+167, Refrigerator, Electronics,50, 60x30x24 inches,1200,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-06-16
+168, Hat, Clothing,0.1, 8x8x4 inches,15,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-06-17
+169, Glue, Stationery,0.1, 4x2x1 inches,3,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-06-18
+170, Tablet, Electronics,0.5, 10x6x0.2 inches,500,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-06-19
+171, Dress, Clothing,0.6, 16x12x2 inches,60,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-06-20
+172, Stapler, Stationery,0.3, 7x2x1 inches,4,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-06-21
+173, Calculator, Electronics,0.4, 8x6x1 inches,20,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-06-22
+174, Jacket, Clothing,0.8, 20x16x2 inches,50,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-06-23
+175, Notebook, Stationery,0.2, 9x6x0.5 inches,3,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-06-24
+176, Printer, Electronics,5, 18x12x10 inches,200,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-06-25
+177, Shorts, Clothing,0.3, 12x10x1 inches,25,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-06-26
+178, USB Drive, Electronics,0.05, 2x1x0.2 inches,10,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-06-27
+179, Polo Shirt, Clothing,0.3, 14x12x1 inches,30,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-06-28
+180, Ruler, Stationery,0.1, 12x1x0.2 inches,1.5,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-06-29
+181, Microwave, Electronics,20, 20x15x12 inches,250,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-06-30
+182, Swimwear, Clothing,0.2, 10x8x1 inches,40,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-07-01
+183, Marker Set, Stationery,0.3, 6x4x1 inches,5,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-07-02
+184, Laptop, Electronics,2, 15x10x1 inches,800,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-07-03
+185, T-Shirt, Clothing,0.2, 12x10x1 inches,20,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-07-04
+186, Pens, Stationery,0.05, 6x0.5x0.5 inches,1.5,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-07-05
+187, Digital Camera, Electronics,1, 6x4x3 inches,400,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-07-06
+188, Jeans, Clothing,0.8, 16x12x2 inches,50,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-07-07
+189, Sticky Notes, Stationery,0.1, 4x3x1 inches,2.5,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-07-08
+190, Headphones, Electronics,0.3, 8x6x2 inches,50,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-07-09
+191, Sweater, Clothing,0.5, 14x12x2 inches,40,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-07-10
+192, Pencil Case, Stationery,0.2, 8x4x1 inches,5,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-07-11
+193, External Hard Drive, Electronics,0.5, 6x4x1 inches,100,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-07-12
+194, Dress Shirt, Clothing,0.3, 16x12x1 inches,35,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-07-13
+195, Whiteboard Markers, Stationery,0.1, 5x1x1 inches,3.5,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-07-14
+196, Bluetooth Speaker, Electronics,0.8, 10x6x3 inches,80,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-07-15
+197, Denim Jacket, Clothing,1, 18x14x2 inches,60,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-07-16
+198, Sketchbook, Stationery,0.3, 12x9x1 inches,8,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-07-17
+199, DSLR Camera, Electronics,2, 10x8x6 inches,1200,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-07-18
+200, Sundress, Clothing,0.4, 14x12x2 inches,45,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-07-19
+201, Calculator, Stationery,0.2, 8x6x1 inches,10,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-07-20
+202, Smartwatch, Electronics,0.1, 2x2x0.5 inches,150,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-07-21
+203, Hoodie, Clothing,0.6, 12x10x2 inches,35,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-07-22
+204, Sticky Notes, Stationery,0.05, 4x3x0.5 inches,2.5,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-07-23
+205, Drone, Electronics,1.5, 10x10x2 inches,500,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-07-24
+206, Sneakers, Clothing,0.8, 14x6x4 inches,70,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-07-25
+207, Fountain Pen, Stationery,0.1, 6x1x1 inches,20,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-07-26
+208, Portable Charger, Electronics,0.2, 4x2x0.5 inches,30,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-07-27
+209, Joggers, Clothing,0.4, 12x10x2 inches,30,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-07-28
+210, Highlighters, Stationery,0.05, 5x1x1 inches,3,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-07-29
+211, Gaming Console, Electronics,2, 12x10x4 inches,400,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-07-30
+212, Polo Shirt, Clothing,0.3, 14x12x1 inches,25,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-07-31
+213, Sticky Notes Set, Stationery,0.2, 6x4x1 inches,5,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-08-01
+214, Bluetooth Earbuds, Electronics,0.05, 3x2x1 inches,50,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-08-02
+215, Summer Dress, Clothing,0.5, 14x12x2 inches,40,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-08-03
+216, Ballpoint Pen, Stationery,0.05, 6x1x1 inches,2,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-08-04
+217, Wireless Mouse, Electronics,0.1, 4x2x1 inches,20,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-08-05
+218, T-Shirt, Clothing,0.2, 12x10x1 inches,15,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-08-06
+219, Whiteboard Eraser, Stationery,0.2, 4x2x1 inches,4,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-08-07
+220, Laptop, Electronics,2, 14x10x1 inches,1000,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-08-08
+221, Jeans, Clothing,0.8, 14x12x2 inches,50,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-08-09
+222, Bluetooth Speaker, Electronics,0.8, 10x6x3 inches,80,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-08-10
+223, Denim Jacket, Clothing,1, 18x14x2 inches,60,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-08-11
+224, Sketchbook, Stationery,0.3, 12x9x1 inches,8,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-08-12
+225, DSLR Camera, Electronics,2, 10x8x6 inches,1200,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-08-13
+226, Sundress, Clothing,0.4, 14x12x2 inches,45,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-08-14
+227, Calculator, Stationery,0.2, 8x6x1 inches,10,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-08-15
+228, Smartwatch, Electronics,0.1, 2x2x0.5 inches,150,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-08-16
+229, Sports Bra, Clothing,0.2, 10x8x1 inches,25,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-08-17
+230, Sticky Notes, Stationery,0.05, 4x3x0.5 inches,2.5,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-08-18
+231, Wireless Headphones, Electronics,0.3, 8x6x3 inches,60,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-08-19
+232, Swim Shorts, Clothing,0.4, 14x10x2 inches,35,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-08-20
+233, Ballpoint Pen Set, Stationery,0.2, 6x4x1 inches,6,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-08-21
+234, Laptop Stand, Electronics,0.5, 10x8x2 inches,40,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-08-22
+235, Polo Shirt, Clothing,0.3, 14x12x1 inches,25,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-08-23
+236, Highlighters Set, Stationery,0.2, 5x1x1 inches,3.5,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-08-24
+237, Bluetooth Earphones, Electronics,0.05, 3x2x1 inches,50,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-08-25
+238, Hoodie, Clothing,0.6, 16x14x2 inches,45,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-08-26
+239, Mechanical Pencil, Stationery,0.1, 6x0.5x0.5 inches,2.5,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-08-27
+240, Portable Speaker, Electronics,0.3, 6x4x2 inches,30,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-08-28
+241, Denim Shorts, Clothing,0.4, 12x10x1 inches,30,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-08-29
+242, Fountain Pen, Stationery,0.2, 6x1x1 inches,8,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-08-30
+243, Wireless Keyboard, Electronics,0.5, 14x6x1 inches,50,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-08-31
+244, Jogging Pants, Clothing,0.5, 14x12x2 inches,35,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-09-01
+245, Gel Pens Set, Stationery,0.2, 5x2x1 inches,5,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-09-02
+246, Portable Charger, Electronics,0.15, 4x2x0.5 inches,20,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-09-03
+247, T-Shirt, Clothing,0.2, 12x10x1 inches,20,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-09-04
+248, Stapler, Stationery,0.3, 6x2x1 inches,5,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-09-05
+249, Wireless Mouse, Electronics,0.1, 3x2x1 inches,15,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-09-06
+250, Jogging Shorts, Clothing,0.3, 10x8x1 inches,25,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-09-07
+252, Whiteboard Markers Set, Stationery,0.3, 6x3x1 inches,8,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-09-08
+253, Bluetooth Speaker, Electronics,0.5, 8x4x3 inches,40,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-09-09
+254, Denim Jacket, Clothing,0.8, 18x16x2 inches,60,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-09-10
+255, Calculator, Stationery,0.2, 6x4x1 inches,10,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-09-11
+256, Smartwatch, Electronics,0.3, 10x6x1 inches,80,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-09-12
+257, Sundress, Clothing,0.4, 12x10x1 inches,30,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-09-13
+258, Sticky Notes, Stationery,0.05, 4x3x0.5 inches,2.5,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-09-14
+259, Gaming Headset, Electronics,0.5, 8x7x3 inches,70,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-09-15
+260, Polo Shirt, Clothing,0.3, 12x10x1 inches,25,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-09-16
+261, Highlighters Set, Stationery,0.2, 5x1x1 inches,3.5,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-09-17
+262, Wireless Earbuds, Electronics,0.05, 3x2x1 inches,50,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-09-18
+263, Hoodie, Clothing,0.6, 16x14x2 inches,45,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-09-19
+264, Mechanical Pencil, Stationery,0.1, 6x0.5x0.5 inches,2.5,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-09-20
+265, Portable Speaker, Electronics,0.3, 6x4x2 inches,30,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-09-21
+266, Denim Shorts, Clothing,0.4, 12x10x1 inches,30,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-09-22
+267, Fountain Pen, Stationery,0.2, 6x1x1 inches,8,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-09-23
+269, Summer Dress, Clothing,0.4, 12x10x1 inches,35,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-09-25
+270, Sticky Notes, Stationery,0.05, 4x3x0.5 inches,2.5,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-09-26
+271, Gaming Mouse, Electronics,0.2, 4x2x1 inches,35,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-09-27
+272, Running Shoes, Clothing,0.6, 14x6x4 inches,80,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-09-28
+273, Sticky Flags, Stationery,0.05, 3x1x0.2 inches,1.5,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-09-29
+274, Digital Camera, Electronics,0.8, 5x3x2 inches,300,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-09-30
+275, Winter Jacket, Clothing,1, 20x18x3 inches,120,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-10-01
+276, Notebook, Stationery,0.2, 8x6x0.5 inches,5,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-10-02
+277, Wireless Headphones, Electronics,0.3, 7x6x3 inches,60,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-10-03
+278, Dress Shirt, Clothing,0.3, 12x10x1 inches,40,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-10-04
+279, Ballpoint Pen, Stationery,0.05, 6x0.5x0.5 inches,1.5,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-10-05
+280, Smart Watch, Electronics,0.2, 8x1.5x0.5 inches,90,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-10-06
+281, Jeans, Clothing,0.6, 14x12x2 inches,60,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-10-07
+282, Water Bottle, Stationery,0.2, 8x3x3 inches,10,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-10-08
+283, Bluetooth Speaker, Electronics,0.5, 6x4x2 inches,40,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-10-09
+284, T-Shirt, Clothing,0.3, 10x8x1 inches,20,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-10-10
+285, Gel Pen Set, Stationery,0.2, 6x3x1 inches,6,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-10-11
+286, Bluetooth Earphones, Electronics,0.05, 3x2x1 inches,30,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-10-12
+287, Sweater, Clothing,0.5, 16x14x2 inches,50,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-10-13
+289, External Hard Drive, Electronics,0.3, 4x3x0.5 inches,80,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-10-14
+290, Jogging Pants, Clothing,0.4, 12x10x1 inches,30,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-10-15
+291, Sticky Notes, Stationery,0.05, 4x3x0.5 inches,2.5,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-10-16
+292, Digital Camera, Electronics,0.8, 5x3x2 inches,300,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-10-17
+293, Winter Jacket, Clothing,1, 20x18x3 inches,120,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-10-18
+294, Notebook, Stationery,0.2, 8x6x0.5 inches,5,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-10-19
+295, Wireless Headphones, Electronics,0.3, 7x6x3 inches,60,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-10-20
+296, Dress Shirt, Clothing,0.3, 12x10x1 inches,40,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-10-21
+297, Ballpoint Pen, Stationery,0.05, 6x0.5x0.5 inches,1.5,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-10-22
+298, Smart Watch, Electronics,0.2, 8x1.5x0.5 inches,90,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-10-23
+299, Jeans, Clothing,0.6, 14x12x2 inches,60,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-10-24
+300, Gel Pen Set, Stationery,0.2, 6x3x1 inches,6,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-10-25
+301, Bluetooth Earphones, Electronics,0.05, 3x2x1 inches,30,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-10-26
+302, Sweater, Clothing,0.5, 16x14x2 inches,50,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-10-27
+303, Water Bottle, Stationery,0.2, 8x3x3 inches,10,1, ABC Supplier, City A,1000, 5 days,500,2, City Y,1500,1800,2, Mary Johnson, City Q,30,3000,1, Truck,  0.5/mile,5000, 2022-10-28
+304, Bluetooth Speaker, Electronics,0.5, 6x4x2 inches,40,3, PQR Supplier, City C,1200, 4 days,550,3, City Z,2500,2200,3, David Brown, City R,20,2000,2, Ship,  1000/trip,10000, 2022-10-29
+305, T-Shirt, Clothing,0.3, 10x8x1 inches,20,2, XYZ Supplier, City B,800, 3 days,450,1, City X,2000,2000,3, David Brown, City R,20,2000,3, Air,  2/mile,2000, 2022-10-30
